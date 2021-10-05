@@ -1,0 +1,814 @@
+titolo_poesia,testo,label_enj
+Traversando la Maremma toscana,"E dimani cadrò. Ma di lontano
+
+Pace dicono al cuor le tue colline",1
+Traversando la Maremma toscana,"Con le nebbie sfumanti e il verde piano
+Ridente ne le pioggie mattutine.",1
+Lavandare,"resta un aratro senza buoi che pare
+dimenticato, tra il vapor leggero.",1
+Lavandare,"E cadenzato dalla gora viene
+lo sciabordare delle lavandare",1
+L'assiuolo,"Dov’era la luna? ché il cielo
+notava in un’alba di perla,",1
+Digitale purpurea,"non ci tornasti?» «Mai» «Non le vedesti
+
+più?» «Non più, cara» «Io sì: ci ritornai;",1
+Digitale purpurea,"Oh! quel convento in mezzo alla montagna
+cerulea!» Maria parla: una mano",1
+Digitale purpurea,"Vedono. Sorge nell’azzurro intenso
+del ciel di maggio il loro monastero,",1
+Digitale purpurea,"tornaste alle sonanti camerate
+
+oggi: ed oggi, più alto, Ave, ripete,",1
+Digitale purpurea,"senza perché. Quante fanciulle sono
+nell’orto, bianco qua e là di loro!",1
+Digitale purpurea,"di vele al vento, vengono. Rimane
+qualcuna, e legge in un suo libro buono.",1
+Digitale purpurea,"una spiga di fiori, anzi di dita
+spruzzolate di sangue, dita umane,",1
+Digitale purpurea,"Memorie (l’una sa dell’altra al muto
+premere) dolci, come è tristo e pio",1
+Digitale purpurea,"portava odor di rose e di viole a
+
+ciocche. Nel cuore, il languido fermento",1
+Digitale purpurea,"L’aria soffiava luce di baleni
+silenzïosi. M’inoltrai leggiera,",1
+Digitale purpurea,"erbosi. I piedi mi tenea la folta
+erba. Sorridi? E dirmi sentia, Vieni!",1
+La Poesia,"da bocche
+celate nell'ombra, ai cantoni,",1
+La Poesia,"la madre, nel tempo ch'esplora
+la figlia più grande che pensa",1
+La Poesia,"che oscilla
+davanti a una dolce Maria,",1
+La Poesia,"raccolgo l'uguale tributo
+d'ulivo",1
+La Poesia,"d'ulivo
+da tutta la villa, e il saluto",1
+La Poesia,"da tutta la villa, e il saluto
+del colle sassoso e del rivo",1
+La Poesia,"del colle sassoso e del rivo
+sonante di canne:",1
+La Poesia,"la donna più bianca del bianco
+lenzuolo, che in grembo, assopita,",1
+La Poesia,"scarniti di vecchi; tenaci
+di vergini bionde sorrisi;",1
+Nebbia,"nascondile, involale al volo
+del cuore! Ch’io veda il cipresso",1
+Nebbia,"Ch’io veda soltanto la siepe
+dell’orto,",1
+Nebbia,"la mura ch’ha piene le crepe
+di valerïane.",1
+Nebbia,"Ch’io veda là solo quel bianco
+di strada,",1
+Il gelsomino notturno,"È l’alba: si chiudono i petali
+un poco gualciti; si cova,",1
+Il gelsomino notturno,"Dai calici aperti si esala
+l’odore di fragole rosse.",1
+L'ultimo viaggio XIX Il Ciclope,"«Ben verrei reco per veder quell'uomo
+che tanto mangia, e portar via, se posso,",1
+L'ultimo viaggio XIX Il Ciclope,"Dentro e' non era. Egli pasceva al monte
+i pingui greggi. E i due meravigliando",1
+L'ultimo viaggio XIX Il Ciclope,"i pingui greggi. E i due meravigliando
+vedean graticci pieni di formaggi,",1
+La sera fiesolana,"ti sien come il fruscìo che fan le foglie
+del gelso ne la man di chi le coglie",1
+La sera fiesolana,"mentre la Luna è prossima a le soglie
+cerule e par che innanzi a sè distenda un velo",1
+La sera fiesolana,"o Sera, e pe’; tuoi grandi umidi occhi ove si tace
+l’acqua del cielo!",1
+La sera fiesolana,"Io ti dirò verso quali reami
+d’amor ci chiami il fiume, le cui fonti",1
+La sera fiesolana,"d’amor ci chiami il fiume, le cui fonti
+eterne a l’ombra de gli antichi rami",1
+La sera fiesolana,"s’incurvino come labbra che un divieto
+chiuda, e perché la volontà di dire",1
+La sera fiesolana,"e nel silenzio lor sempre novelle
+consolatrici, sì che pare",1
+Le stirpi canore,"I miei carmi son prole
+delle foreste,",1
+Le stirpi canore,"fervide come le vene
+degli adolescenti,",1
+Le stirpi canore,"nette come i cristalli
+del monte,",1
+Le stirpi canore,"tremule come le fronde
+del pioppo,",1
+Le stirpi canore,"tumide come la nerici
+dei cavalli",1
+Le stirpi canore,"labili come i profumi
+diffusi,",1
+Le stirpi canore,"vergini come i calici
+appena schiusi,",1
+Le stirpi canore,"notturne come le rugiade
+dei cieli,",1
+L'onda,"come l'antica
+lorica",1
+L'onda,"l'arme, la forza
+del vento l'intacca.",1
+L'onda,"la cima leggiera
+s'arruffa",1
+L'onda,"di fiocchi, d'iridi
+ferve nella risacca;",1
+L'onda,"tutte accoglie e fonde
+le dissonanze acute",1
+L'onda,"nelle sue volute
+profonde,",1
+L'onda,"del suo mistero
+fugace.",1
+L'onda,"Sùbito le balza
+il cor, le raggia",1
+L'onda,"il cor, le raggia
+il viso d'oro.",1
+L'onda,"come l'onda, l'asciutta
+fura, quasi che tutta",1
+L'onda,"fura, quasi che tutta
+la freschezza marina",1
+L'onda,"Musa, cantai la lode
+della mia Strofe Lunga.",1
+I pastori,"Han bevuto profondamente ai fonti
+alpestri, che sapor d’acqua natía",1
+I pastori,"Ora lungh’esso il litoral cammina
+la greggia. Senza mutamento è l’aria.",1
+Totò Merùmeni,"Col suo giardino incolto, le sale vaste, i bei
+balconi secentisti guarniti di verzura,",1
+Totò Merùmeni,"S’ode un latrato e un passo, si chiude cautamente
+la porta… In quel silenzio di chiostro e di caserma",1
+Totò Merùmeni,"scarso cervello, scarsa morale, spaventosa
+chiaroveggenza: è il vero figlio del tempo nostro.",1
+Totò Merùmeni,"«…in verità derido l’inetto che si dice
+buono, perché non ha l’ugne abbastanza forti…»",1
+Totò Merùmeni,"Chiuso in se stesso, medita, s’accresce, esplora, intende
+la vita dello Spirito che non intese prima.",1
+Totò Merùmeni,"Perché la voce è poca, e l’arte prediletta
+immensa, perché il Tempo – mentre ch’io parlo! – va,",1
+"Taci, anima stanca di godere","e di soffrire (all'uno e all'altro
+vai rassegnata).",1
+"Taci, anima stanca di godere","non di rimpianto per la miserabile
+giovinezza, non d'ira o di speranza,",1
+"Taci, anima stanca di godere","non è vero, mia anima, se il cuore
+si fermasse, sospeso se ci fosse",1
+"Taci, anima stanca di godere","E gli alberi son alberi, le case
+sono case, le donne",1
+"Taci, anima stanca di godere","sono case, le donne
+che passano son donne, e tutto è quello",1
+"Taci, anima stanca di godere","che passano son donne, e tutto è quello
+che è, soltanto quel che è.",1
+Distacco,"Di giorno in giorno assisto
+all’opera che il tempo,",1
+Distacco,"divien passato e quel che ci pareva
+incredibile accade.",1
+Autunno,"in quest'autunno che incede
+con lentezza indicibile,",1
+A mia moglie,"Le si arruffano al vento
+le piume, il collo china",1
+A mia moglie,"ma, nell'andare, ha il lento
+tuo passo di regina,",1
+A mia moglie,"È come sono tutte
+le femmine di tutti",1
+A mia moglie,"le femmine di tutti
+i sereni animali",1
+A mia moglie,"che la tua voce ha la soave e triste
+musica dei pollai.",1
+A mia moglie,"Tu sei come una gravida
+giovenca;",1
+A mia moglie,"libera ancora e senza
+gravezza, anzi festosa;",1
+A mia moglie,"che, se la lisci, il collo
+volge, ove tinge un rosa",1
+A mia moglie,"volge, ove tinge un rosa
+tenero la tua carne.",1
+A mia moglie,"Se l'incontri e muggire
+l'odi, tanto è quel suono",1
+A mia moglie,"l'odi, tanto è quel suono
+lamentoso, che l'erba",1
+A mia moglie,"lamentoso, che l'erba
+strappi, per farle un dono.",1
+A mia moglie,"Tu sei come una lunga
+cagna, che sempre tanta",1
+A mia moglie,"cagna, che sempre tanta
+dolcezza ha negli occhi,",1
+A mia moglie,"Ai tuoi piedi un santa
+sembra, che d'un fervore",1
+A mia moglie,"segue, a chi solo tenti
+avvicinarsi, i denti",1
+A mia moglie,"avvicinarsi, i denti
+candidissimi scopre.",1
+A mia moglie,"Ed il suo amore soffre
+di gelosia.",1
+A mia moglie,"Tu sei come la pavida
+coniglia. Entro l'angusta",1
+A mia moglie,"coniglia. Entro l'angusta
+gabbia ritta al vederti",1
+A mia moglie,"Chi potrebbe quel cibo
+ritoglierle? chi il pelo",1
+A mia moglie,"questo che a me, che mi sentiva ed era
+vecchio, annunciavi un'altra primavera.",1
+A mia moglie,"Tu sei come la provvida
+formica. Di lei, quando",1
+A mia moglie,"formica. Di lei, quando
+escono alla campagna,",1
+Trieste,"Trieste ha una scontrosa
+grazia. Se piace,",1
+Trieste,"un cantuccio in cui solo
+siedo; e mi pare che dove esso termina",1
+Trieste,"Da quest'erta ogni chiesa, ogni sua via
+scopro, se mena all'ingombrata spiaggia,",1
+Trieste,"o alla collina cui, sulla sassosa
+cima, una casa, l'ultima, s'aggrappa.",1
+Città Vecchia,"Giallo in qualche pozzanghera si specchia
+qualche fanale, e affollata è la strada.",1
+Città Vecchia,"il dragone che siede alla bottega
+del friggitore.",1
+Città Vecchia,"la tumultuante giovane impazzita
+d'amore,",1
+Mio padre è stato per me «l'assassino»,"Egli era gaio e leggero; mia madre
+tutti sentiva della vita i pesi.",1
+"Tre poesie alla mia balia, I","Mia figlia
+mi tiene il braccio intorno al collo, ignudo;",1
+"Tre poesie alla mia balia, I","Divento
+legno in mare caduto che sull’onda",1
+"Tre poesie alla mia balia, I","legno in mare caduto che sull’onda
+galleggia. E dove alla vicina sponda",1
+"Tre poesie alla mia balia, I","Al seno
+approdo di colei che Berto ancora",1
+"Tre poesie alla mia balia, I","approdo di colei che Berto ancora
+mi chiama, al primo, all’amoroso seno,",1
+Parole,"- nudo e sorpreso - alle origini; un angolo
+cerco nel mondo, l’oasi propizia",1
+Parole,"dalla menzogna che vi acceca. Insieme
+delle memorie spaventose il cumulo",1
+«Frutta erbaggi»,"Erbe, frutta, colori della bella
+stagione. Poche ceste ove alla sete",1
+«Frutta erbaggi»,"l’umile botteguccia, invecchia come
+una madre.",1
+Sera di febbraio,"				Nel viale è ancora
+giorno, una sera che rapida cala.",1
+Sera di febbraio,"					Ed è il pensiero
+della morte che, infine, aiuta a vivere.",1
+Amai,"Amai trite parole che non uno
+osava. M’incantò la rima fiore",1
+Amai,"quasi un sogno obliato, che il dolore
+riscopre amica. Con paura il cuore",1
+Amai,"Amo te che mi ascolti e la mia buona
+carta lasciata al fine del mio gioco.",1
+Ulisse,"lungo le coste dalmate. Isolotti
+a fior d’onda emergevano, ove raro",1
+Ulisse,"belli come smeraldi. Quando l’alta
+marea e la notte li annullava, vele",1
+Ulisse,"per fuggirne l’insidia. Oggi il mio regno
+è quella terra di nessuno. Il porto",1
+Ulisse,"è quella terra di nessuno. Il porto
+accende ad altri i suoi lumi; me al largo",1
+Ulisse,"accende ad altri i suoi lumi; me al largo
+sospinge ancora il non domato spirito,",1
+Spesso il male di vivere ho incontrato,"era l’incartocciarsi della foglia
+riarsa, era il cavallo stramazzato.",1
+Spesso il male di vivere ho incontrato,"era la statua nella sonnolenza
+del meriggio, e la nuvola, e il falco alto levato.",1
+Ti libero la fronte dai ghiaccioli,"che raccogliesti traversando l’alte
+nebulose; hai le penne lacerate",1
+Ti libero la fronte dai ghiaccioli,"nebulose; hai le penne lacerate
+dai cicloni, ti desti a soprassalti.",1
+Ti libero la fronte dai ghiaccioli,"l’ombra nera, s’ostina in cielo un sole
+freddoloso; e l’alte ombre che scantonano",1
+La casa dei doganieri,"Tu non ricordi; altro tempo frastorna
+la tua memoria; un filo s'addipana.",1
+La casa dei doganieri,"Ne tengo ancora un capo; ma s'allontana
+la casa e in cima al tetto la banderuola",1
+La casa dei doganieri,"la casa e in cima al tetto la banderuola
+affumicata gira senza pietà.",1
+La casa dei doganieri,"Tu non ricordi la casa di questa
+mia sera. Ed io non so chi va e chi resta.",1
+La bufera,"La bufera che sgronda sulle foglie
+dure della magnolia i lunghi tuoni",1
+La bufera,"dure della magnolia i lunghi tuoni
+marzolini e la grandine,",1
+La bufera,"(i suoni di cristallo nel tuo nido
+notturno ti sorprendono, dell'oro",1
+La bufera,"alberi e muro e li sorprende in quella
+eternità d'istante – marmo manna",1
+La bufera,"e poi lo schianto rude, i sistri, il fremere
+dei tamburelli sulla fossa fuia,",1
+La bufera,"Come quando
+ti rivolgesti e con la mano, sgombra",1
+La bufera,"ti rivolgesti e con la mano, sgombra
+la fronte dalla nube dei capelli,",1
+L'anguilla,"L’anguilla, la sirena
+dei mari freddi che lascia il Baltico",1
+L'anguilla,"sempre più addentro, sempre più nel cuore
+del macigno, filtrando",1
+L'anguilla,"che solo i nostri botri o i disseccati
+ruscelli pirenaici riconducono",1
+L'anguilla,"l’anima verde che cerca
+vita là dove solo",1
+L'anguilla,"la scintilla che dice
+tutto comincia quando tutto pare",1
+L'anguilla,"tutto comincia quando tutto pare
+incarbonirsi, bronco seppellito;",1
+L'anguilla,"l’iride breve, gemella
+di quella che incastonano i tuoi cigli",1
+L'anguilla,"e fai brillare intatta in mezzo ai figli
+dell’uomo, immersi nel tuo fango, puoi tu",1
+L'anguilla,"dell’uomo, immersi nel tuo fango, puoi tu
+non crederla sorella?",1
+Piove,"da un cielo che non ha
+nuvole.",1
+Piove,"Piove
+sulla tua tomba",1
+Piove,"ma sulla cartella
+esattoriale,",1
+Piove,"sull'uomo indiato, sul cielo
+ominizzato, sul ceffo",1
+Piove,"piove sul progresso
+della contestazione,",1
+L'angelo nero,"O grande angelo nero
+fuligginoso riparami",1
+L'angelo nero,"che io possa sorradere
+i pettini dei pruni, le luminarie dei forni",1
+L'angelo nero,"se ti prendessi un'ala e la sentissi
+scricchiolare",1
+L'angelo nero,"non potrei riconoscerti come faccio
+nel sonno, nella veglia, nel mattino",1
+L'angelo nero,"dell'ultima tua piuma, grande angelo
+di cenere e di fumo, miniangelo",1
+Lelio,"d’intorno e l’incantata
+pace d’una zappetta.",1
+Lelio,"quel cernere la ghiaia
+azzurra e al suo colore",1
+Lelio,"la sera. Ora, che appaia
+
+la luna e del suo vento",1
+Lelio,"devastaci la vita
+
+un’altra volta e vivi.",1
+Non startene nascosto,"però è anche il suo
+impenetrabile nasondiglio.",1
+Non startene nascosto,"dalla sua eternità sotto una gronda
+umana, scende",1
+"Non sa più nulla, è alto sulle ali","Per questo qualcuno stanotte
+mi toccava la spalla mormorando",1
+"Non sa più nulla, è alto sulle ali","Non è musica d'angeli, è la mia
+sola musica e mi basta -.",1
+Amsterdam,"lungo il semigelo d’un canale. E non
+questa è la casa, ma soltanto",1
+Amsterdam,"Disse piú tardi il mio compagno: quella
+di Anna Frank non dev’essere, non è",1
+Amsterdam,"di Anna Frank non dev’essere, non è
+privilegiata memoria. Ce ne furono tanti",1
+Amsterdam,"che fonde in tante unità ricorrenti, nei suoi
+tre quattro fradici o acerbi colori",1
+La vita...è ricordarsi di un risveglio,"La vita... è ricordarsi di un risveglio
+triste in un treno all'alba: aver veduto",1
+La vita...è ricordarsi di un risveglio,"triste in un treno all'alba: aver veduto
+fuori la luce incerta: aver sentito",1
+La vita...è ricordarsi di un risveglio,"nel corpo rotto la malinconia
+vergine e aspra dell'aria pungente.",1
+La vita...è ricordarsi di un risveglio,"Ma ricordarsi la liberazione
+improvvisa è più dolce: a me vicino",1
+Interno,"C’era la luce sui poveri letti
+disfatti. E sopra un tavolaccio",1
+Interno,"dormiva un ragazzaccio
+bellissimo.",1
+Interno,"Uscì dalle sue braccia
+annuvolate, esitando, un gattino.",1
+Preghiera,"E con la tua candela
+timida, di nottetempo",1
+Preghiera,"Ma tu, tanto più netta
+di me, la camicetta",1
+Preghiera,"di me, la camicetta
+ricorderai, e il rubino",1
+Preghiera,"ricorderai, e il rubino
+di sangue, sul serpentino",1
+Preghiera,"di sangue, sul serpentino
+d'oro che lei portava",1
+Ritorno,"Sul tavolo (sull’incerato
+a quadretti) ammezzato",1
+Ritorno,"ho ritrovato il bicchiere
+mai riempito. Tutto",1
+Ritorno,"mai riempito. Tutto
+è ancora rimasto quale",1
+Prima persona,"e presente: mai giunge
+l’ora tua,",1
+Prima persona,"Ma tu scaturisci per lenti
+boschi, per lucidi abissi,",1
+Prima persona,"i conati malcerti, il fioco
+sospingermi del cuore: E là nel vetro",1
+Prima persona,"Col motore sobbalza
+la strada e il fango, cresce",1
+Prima persona,"la strada e il fango, cresce
+l’orgasmo, io cresco io cado.",1
+«Tato» padovano,"e invece sei morto così in
+un incidente di motociclismo",1
+«Tato» padovano,"E forse anche tu
+hai un'anima meravigliosa e immortale",1
+«Tato» padovano,"che soffochiamo o perdiamo
+nei campi o anneghiamo",1
+«Tato» padovano,"	atto di natura - scavalcamento
+	di ogni incidente o altro -",1
+Per il quinto anniversario della battaglia di Mentana,"Colli volando va,
+I colli e i pian trasalgono",0
+Per il quinto anniversario della battaglia di Mentana,"Per salutarti, o Italia,
+Per rivederti ancor.",0
+Per il quinto anniversario della battaglia di Mentana,"Non son nefandi scheletri;
+Sono alte forme e belle,",0
+Per il quinto anniversario della battaglia di Mentana,"Doni i sorrisi tuoi;
+Ma i morti non obliano",0
+Per il quinto anniversario della battaglia di Mentana,"Voliam su ’l Campidoglio,
+Voliamo a trionfar. —",0
+Traversando la Maremma toscana,"E il petto ov’odio e amor mai non s’addorme,
+Pur ti riveggo, e il cuor mi balza in tanto.",0
+Traversando la Maremma toscana,"Oh, quel che amai, quel che sognai, fu in vano;
+E sempre corsi, e mai non giunsi il fine;",0
+Dinanzi alle Terme di Caracalla,"grave fischiando tra la folta barba,
+passa e non guarda. Febbre, io qui t'invoco,",0
+Dinanzi alle Terme di Caracalla,"Se ti fûr cari i grandi occhi piangenti
+e de le madri le protese braccia",0
+Dinanzi alle Terme di Caracalla,"Poggiata il capo al Palatino augusto,
+tra 'l Celio aperte e l'Aventin le braccia,",0
+Alla stazione in una mattina d'autunno,"appello che rapido suona:
+grossa scroscia su’ vetri la pioggia.",0
+Alla stazione in una mattina d'autunno,"remea l’estate quando mi arrisero:
+e il giovine sole di giugno",0
+Alla stazione in una mattina d'autunno,"torno ora, e ad esse vorrei confondermi;
+barcollo com’ebro, e mi tócco,",0
+Alla stazione in una mattina d'autunno,"Oh qual caduta di foglie, gelida,
+continua, muta, greve, su l’anima!",0
+Alla stazione in una mattina d'autunno,"meglio quest’ombra, questa caligine:
+io voglio io voglio adagiarmi",0
+Sogno d'estate,"in riva di Scamandro, ma il cor mi fuggì su 'l Tirreno.
+Sognai, placide cose de' miei novelli anni sognai.",0
+Sogno d'estate,"cari selvaggi colli che il giovane april rifioría.
+Scendeva per la piaggia con mormorii freschi un zampillo",0
+Sogno d'estate,"Però che le campane sonavano su da 'l castello
+annunziando Cristo tornante dimane a' suoi cieli;",0
+Sogno d'estate,"e su le cime e al piano, per l'aure, pe' rami, per l'acque,
+correa la melodia spiritale di primavera;",0
+Sogno d'estate,"La giovine madre guardava beata nel sole.
+Io guardava la madre, guardava pensoso il fratello,",0
+Nevicata,"non d’erbaiola il grido o corrente rumore di carro,
+non d’amore la canzon ilare e di gioventù.",0
+Nevicata,"In breve, o cari, in breve – tu càlmati, indomito cuore –
+giù al silenzio verrò, ne l’ombra riposerò.",0
+A una mummia,"Perdona se i nepoti,
+Più culti che devoti,",0
+A una mummia,"Sì misero governo.
+
+Tu, nata al sole, al fulgido",0
+A una mummia,"Da una gente latina.
+
+O fumo degli olibani!",0
+Allora,"non puoi, mio pensiero, non puoi,
+portare con te, che quell'anno!",0
+Allora,"compagno, ch'è senza ritorno;
+la vita fu vana parvenza",0
+Lavandare,"Nel campo mezzo grigio e mezzo nero
+resta un aratro senza buoi che pare",0
+Lavandare,"il vento soffia e nevica la frasca,
+e tu non torni ancora al tuo paese!",0
+Lavandare,"e tu non torni ancora al tuo paese!
+quando partisti, come son rimasta!",0
+L'assiuolo,"notava in un’alba di perla,
+ed ergersi il mandorlo e il melo",0
+L'assiuolo,"parevano a meglio vederla.
+Venivano soffi di lampi",0
+L'assiuolo,"tra mezzo alla nebbia di latte:
+sentivo il cullare del mare,",0
+L'assiuolo,"com’eco d’un grido che fu.
+Sonava lontano il singulto:",0
+L'assiuolo,"tremava un sospiro di vento:
+squassavano le cavallette",0
+Il lampo,"E cielo e terra si mostrò qual era:
+
+la terra ansante, livida, in sussulto;",0
+Il lampo,"la terra ansante, livida, in sussulto;
+il cielo ingombro, tragico, disfatto:",0
+Il lampo,"una casa apparì sparì d’un tratto;
+come un occhio, che, largo, esterrefatto,",0
+Il tuono,"rimbombò, rimbalzò, rotolò cupo,
+e tacque, e poi rimareggiò rinfranto,",0
+Il tuono,"e tacque, e poi rimareggiò rinfranto,
+e poi vanì. Soave allora un canto",0
+Digitale purpurea,"e le rividi le mie bianche suore,
+e li rivissi i dolci anni che sai;",0
+Digitale purpurea,"quei piccoli anni così dolci al cuore...»
+L’altra sorrise «E di’: non lo ricordi",0
+Digitale purpurea,"sarei passata al triste fiore accanto.
+
+Ché si diceva: il fiore ha come un miele",0
+Digitale purpurea,"posa su quella della sua compagna;
+
+e l’una e l’altra guardano lontano.",0
+Digitale purpurea,"Piangono, un poco, nel tramonto d’oro,
+senza perché. Quante fanciulle sono",0
+Digitale purpurea,"Maria, ricordo quella greve sera.
+L’aria soffiava luce di baleni",0
+Nebbia,"Nascondi le cose lontane,
+tu nebbia impalpabile e scialba,",0
+Nebbia,"tu nebbia impalpabile e scialba,
+tu fumo che ancora rampolli,",0
+Nebbia,"Nascondi le cose lontane,
+nascondimi quello ch’è morto!",0
+Nebbia,"Nascondi le cose lontane:
+le cose son ebbre di pianto!",0
+Nebbia,"Nascondi le cose lontane,
+nascondile, involale al volo",0
+Il gelsomino notturno,"E s’aprono i fiori notturni,
+nell’ora che penso ai miei cari.",0
+Il gelsomino notturno,"nell’ora che penso ai miei cari.
+Sono apparse in mezzo ai viburni",0
+Il gelsomino notturno,"Da un pezzo si tacquero i gridi:
+là sola una casa bisbiglia.",0
+L'ultimo viaggio XIX Il Ciclope,"	«Ospiti, gioia sia con voi. Chi siete?
+donde venuti? a cambiar qui, qual merce?",0
+L'ultimo viaggio XIX Il Ciclope,"tra poco torna, ché già brucia il sole.
+Ma pur mangiate, se il tardar v'è noia.»",0
+L'ultimo viaggio XIX Il Ciclope,"	Sorrise ad Iro il vecchio Eroe: poi disse:
+«Ospite donna, e pur con te sia gioia.",0
+Consolazione,"Tanto accadrà, ben che non sia d’aprile.
+Usciamo. Non coprirti il capo. È un lento",0
+Consolazione,"La madre fa quel che il buon fi glio vuole.
+Bisogna che tu prenda un po’ di sole,",0
+Consolazione,"Se noi andiamo verso quelle rose,
+io parlo piano, l’anima tua sogna.",0
+Consolazione,"Sogna, ché il tempo di sognare è giunto.
+Io parlo. Di’: l’anima tua m’intende?",0
+Consolazione,"Sogniamo, poi ch’è tempo di sognare.
+Sorridiamo. È la nostra primavera,",0
+Consolazione,"Tutto sarà come al tempo lontano.
+L’anima sarà semplice com’era;",0
+La sera fiesolana,"Laudata sii per le tue vesti aulenti,
+o Sera, e pel cinto che ti cinge come il salce",0
+Furit Aestus,"Un falco stride nel color di perla:
+tutto il cielo si squarcia come un velo.",0
+Furit Aestus,"tutto il cielo si squarcia come un velo.
+O brivido su i mari taciturni,",0
+Furit Aestus,"La forza annoda tutte le radici:
+sotto la terra sta, nascosta e immensa.",0
+Furit Aestus,"sotto la terra sta, nascosta e immensa.
+La pietra brilla più d'ogni altra inerzia.",0
+Furit Aestus,"Pieno di grida è il riposato petto.
+L'ora è giunta, o mia Mèsse, l'ora è giunta!",0
+La pioggia nel pineto,"di fiori accolti,
+su i ginepri folti",0
+La pioggia nel pineto,"su i freschi pensieri
+che l'anima schiude",0
+La pioggia nel pineto,"t'illuse, che oggi m'illude,
+o Ermione.",0
+L'onda,"il Mare.
+Sembra trascolorare.",0
+L'onda,"Non dura.
+Nasce l'onda fiacca,",0
+L'onda,"Altra onda nasce,
+si perde,",0
+I pastori,"Settembre, andiamo. E’ tempo di migrare.
+Ora in terra d’Abruzzi i miei pastori",0
+I pastori,"lascian gli stazzi e vanno verso il mare:
+scendono all’Adriatico selvaggio",0
+I pastori,"che verde è come i pascoli dei monti.
+
+Han bevuto profondamente ai fonti",0
+I pastori,"il sole imbionda sì la viva lana
+che quasi dalla sabbia non divaria.",0
+La signorina Felicita ovvero la felicità,"Signorina Felicita, è il tuo giorno!
+A quest'ora che fai? Tosti il caffè:",0
+La signorina Felicita ovvero la felicità,"A quest'ora che fai? Tosti il caffè:
+e il buon aroma si diffonde intorno?",0
+La signorina Felicita ovvero la felicità,"Bell'edificio triste inabitato!
+Grate panciute, logore, contorte!",0
+Totò Merùmeni,"balconi secentisti guarniti di verzura,
+la villa sembra tolta da certi versi miei,",0
+Totò Merùmeni,"Totò ha venticinque anni, tempra sdegnosa,
+molta cultura e gusto in opere d’inchiostro,",0
+Totò Merùmeni,"Non ricco, giunta l’ora di «vender parolette»
+(il suo Petrarca!…) e farsi baratto o gazzettiere,",0
+A Cesena,"È mercoledì. Sono a Cesena,
+ospite della mia sorella sposa,",0
+A Cesena,"triste è per te la pioggia cittadina,
+il nuovo amore che non ti soccorse,",0
+A Cesena,"poi quando siamo soli (oh come piove!)
+mi dici rauca di non so che sfida",0
+Le dolcezze,"Le domeniche azzurre della primavera.
+La neve sulle case come una parrucca bianca.",0
+Le dolcezze,"La neve sulle case come una parrucca bianca.
+Le passeggiate degli amanti lungo il canale.",0
+Le dolcezze,"Fare il pane la mattina di domenica.
+La pioggia di Marzo che batte sui tegoli grigi. ",0
+Le dolcezze,"Il glicine fiorito su pel muro.
+Le tende bianche delle finestre del convento.",0
+Le dolcezze,"I malati al sole.
+Le bambine che si pettinano l’oro al sole sulle porte.",0
+Le dolcezze,"Le bambine che si pettinano l’oro al sole sulle porte.
+Le donne che cantano alla finestra.",0
+Le dolcezze,"Suonare il pianoforte in un giorno di festa.
+Il canto del cuculo nella campagna.",0
+Sciorinati giorni dispersi...,"Sciorinati giorni dispersi,
+cenci all'aria insaziabile:",0
+Sciorinati giorni dispersi...,"s'amplian faccende in conosciute voci,
+e bello intorno il mondo, par dileggio",0
+Sciorinati giorni dispersi...,"certezza ineluttabile del vero,
+ordisci, ordisci dè tuoi fili il panno",0
+Mare,"che nel posto più brutto indifeso.
+E per restà non può esser restato",0
+Mare,"quello che l’era appena rilevato
+e per andà non può essere andato",0
+Mare,"e quando ànno finito di troncare
+scendono le valanghe a sotterrare.",0
+Mare,"per chiedere una muta alla sua mare.
+La muta era ben pronta al davanzale",0
+Mare,"La muta era ben pronta al davanzale
+e alla finestra mare l’à aspettato.",0
+Il canto della tenebra,"La luce del crepuscolo si attenua:
+Inquieti spiriti sia dolce la tenebra",0
+Il canto della tenebra,"Sorgenti sorgenti abbiam da ascoltare,
+Sorgenti, sorgenti che sanno",0
+Il canto della tenebra,"Ma per i cuori leggeri un'altra vita è alle porte:
+Non c'è di dolcezza che possa uguagliare la Morte",0
+Il canto della tenebra,"Degli alberi e l'acque è notturno
+Il fiume va via taciturno...",0
+"Taci, anima stanca di godere","Nessuna voce tua odo se ascolto:
+non di rimpianto per la miserabile",0
+"Taci, anima stanca di godere","camminiamo io e te come sonnambuli.
+E gli alberi son alberi, le case",0
+"Taci, anima stanca di godere","che è, soltanto quel che è.
+La vicenda di gioia e di dolore",0
+"Versi a dina - La bambina che va sotto gli alberi...","Canta sola
+e salta per la strada: ché non sa",0
+"Versi a dina - La bambina che va sotto gli alberi...","non ha che il peso della sua treccia,
+un fil di canto in gola.",0
+"Versi a dina - La bambina che va sotto gli alberi...","un fil di canto in gola.
+Canta sola",0
+Amicizia,"senza salutarci,
+con pentimenti e scuse da lontano.",0
+Amicizia,"con pentimenti e scuse da lontano.
+Ci siam riaspettati al passo,",0
+Amicizia,"Ci siam riaspettati al passo,
+bestie caute,",0
+Distacco,"Io ti sento tacere da lontano.
+Odo nel mio silenzio il tuo silenzio.",0
+Distacco,"Odo nel mio silenzio il tuo silenzio.
+Di giorno in giorno assisto",0
+Distacco,"Io e te ci separiamo.
+Tu che fosti per me più che una sposa!",0
+Autunno,"che ora, nuda e triste,
+accoglie un sole smarrito.",0
+Autunno,"accoglie un sole smarrito.
+Ora che passa e declina,",0
+Autunno,"il miglior tempo della nostra vita
+e lungamente ci dice addio.",0
+A mia moglie,"pettoruta e superba.
+È migliore del maschio.",0
+A mia moglie,"È migliore del maschio.
+È come sono tutte",0
+A mia moglie,"e così ti riguarda
+come il suo Dio e Signore.",0
+A mia moglie,"dove poi partorire?
+Chi mai farti soffrire?",0
+A mia moglie,"Tu sei come la rondine
+che torna in primavera.",0
+A mia moglie,"Tu questo hai della rondine:
+le movenze leggere;",0
+A mia moglie,"Ma in autunno riparte;
+e tu non hai quest'arte.",0
+Trieste,"Ho attraversata tutta la città.
+Poi ho salita un'erta,",0
+Trieste,"Poi ho salita un'erta,
+popolosa in principio, in là deserta,",0
+Trieste,"grazia. Se piace,
+è come un ragazzaccio aspro e vorace,",0
+Città Vecchia,"Spesso, per ritornare alla mia casa
+prendo un'oscura via di città vecchia.",0
+Mio padre è stato per me «l'assassino»,"Mio padre è stato per me «l'assassino»;
+fino ai vent’anni che l’ho conosciuto.",0
+Mio padre è stato per me «l'assassino»,"Allora ho visto ch’egli era un bambino,
+e che il dono ch’io ho da lui l’ho avuto.",0
+Mio padre è stato per me «l'assassino»,"Aveva in volto il mio sguardo azzurrino,
+un sorriso, in miseria, dolce e astuto.",0
+Parole,"Parole,
+dove il cuore dell’uomo si specchiava",0
+Parole,"dove il cuore dell’uomo si specchiava
+- nudo e sorpreso - alle origini; un angolo",0
+«Frutta erbaggi»,"si rivelano dolci polpe crude.
+
+Entra un fanciullo colle gambe nude,",0
+«Frutta erbaggi»,"Entra un fanciullo colle gambe nude,
+imperioso, fugge via.",0
+Sera di febbraio,"giorno, una sera che rapida cala.
+Indifferente gioventù s'allaccia;",0
+Sera di febbraio,"Indifferente gioventù s'allaccia;
+sbanda a povere mète.",0
+Amai,"amore,
+la più antica difficile del mondo.",0
+Amai,"Amai la verità che giace al fondo,
+quasi un sogno obliato, che il dolore",0
+Ulisse,"sottovento sbandavano più al largo,
+per fuggirne l’insidia. Oggi il mio regno",0
+Ulisse,"sospinge ancora il non domato spirito,
+e della vita il doloroso amore.",0
+I fiumi,"Mi tengo a quest’albero mutilato
+abbandonato in questa dolina",0
+I fiumi,"Questo è il Serchio
+al quale hanno attinto",0
+I fiumi,"di gente mia campagnola
+e mio padre e mia madre",0
+I fiumi,"Questa è la Senna
+e in quel suo torbido",0
+I fiumi,"mi sono rimescolato
+e mi sono conosciuto",0
+L'isola,"di anziane selve assorte, scese,
+e s'inoltrò",0
+L'isola,"e s'inoltrò
+e lo richiamò rumore di penne",0
+L'isola,"sotto il liscio tepore,
+altre brucavano",0
+Giorno per giorno,"«Nessuno, mamma, ha mai sofferto tanto...»
+E il volto già scomparso",0
+Giorno per giorno,"E il volto già scomparso
+ma gli occhi ancora vivi",0
+Giorno per giorno,"e riempivano passeri la stanza
+verso le briciole dal babbo sparse",0
+Giorno per giorno,"verso le briciole dal babbo sparse
+per distrarre il suo bimbo…",0
+Giorno per giorno,"E discorro, lavoro,
+sono appena mutato, temo, fumo…",0
+Giorno per giorno,"ma ti sentivo accanto,
+m’avresti consolato…",0
+Giorno per giorno,"quella voce d’anima
+che non seppi difendere quaggiù…",0
+Giorno per giorno,"Sono tornato ai colli, ai pini amati
+e del ritmo dell’aria il patrio accento",0
+Giorno per giorno,"Passa la rondine e con essa estate,
+e anch’io, mi dico, passerò…",0
+Recitativo di Palinuro,"Per l’uragano all’apice di furia
+Vicino non intesi farsi il sonno;",0
+Recitativo di Palinuro,"Olio fu dilagante a smanie d’onde,
+Aperto campo a libertà di pace,",0
+Recitativo di Palinuro,"Avversità del corpo ebbi mortale
+Ai sogni sceso dell’incerta furia",0
+Recitativo di Palinuro,"Ai sogni sceso dell’incerta furia
+Che annebbiava sprofondi nel suo emblema",0
+Recitativo di Palinuro,"Che annebbiava sprofondi nel suo emblema
+Ed, astuta amnesia, afono sonno,",0
+Recitativo di Palinuro,"Non posero a risposta tregua le onde,
+Non mai accanite a gara più mortale,",0
+I limoni,"dai nomi poco usati: bossi ligustri o acanti.
+Io, per me, amo le strade che riescono agli erbosi",0
+I limoni,"le viuzze che seguono i ciglioni,
+discendono tra i ciuffi delle canne",0
+I limoni,"discendono tra i ciuffi delle canne
+e mettono negli orti, tra gli alberi dei limoni.",0
+I limoni,"si spengono inghiottite dall’azzurro:
+più chiaro si ascolta il susurro",0
+I limoni,"che non sa staccarsi da terra
+e piove in petto una dolcezza inquieta.",0
+I limoni,"Qui delle divertite passioni
+per miracolo tace la guerra,",0
+I limoni,"Quando un giorno da un malchiuso portone
+tra gli alberi di una corte",0
+Non chiederci la parola...,"Ah l’uomo che se ne va sicuro,
+agli altri ed a se stesso amico,",0
+Non chiederci la parola...,"agli altri ed a se stesso amico,
+e l’ombra sua non cura che la canicola",0
+Non chiederci la parola...,"Non domandarci la formula che mondi possa aprirti,
+sì qualche storta sillaba e secca come un ramo.",0
+Non chiederci la parola...,"Codesto solo oggi possiamo dirti,
+ciò che non siamo, ciò che non vogliamo.",0
+Ti libero la fronte dai ghiaccioli,"Ti libero la fronte dai ghiaccioli
+che raccogliesti traversando l’alte",0
+La casa dei doganieri,"Tu non ricordi la casa dei doganieri
+sul rialzo a strapiombo sulla scogliera:",0
+La casa dei doganieri,"sul rialzo a strapiombo sulla scogliera:
+desolata t'attende dalla sera",0
+La casa dei doganieri,"desolata t'attende dalla sera
+in cui v'entrò lo sciame dei tuoi pensieri",0
+La casa dei doganieri,"in cui v'entrò lo sciame dei tuoi pensieri
+e vi sostò irrequieto.",0
+La casa dei doganieri,"Libeccio sferza da anni le vecchie mura
+e il suono del tuo riso non è più lieto:",0
+L'anguilla,"dei mari freddi che lascia il Baltico
+per giungere ai nostri mari,",0
+L'anguilla,"che risale in profondo, sotto la piena avversa,
+di ramo in ramo e poi",0
+L'anguilla,"di quella che incastonano i tuoi cigli
+e fai brillare intatta in mezzo ai figli",0
+Piove,"sul nulla che si fa
+in queste ore di sciopero",0
+Piove,"e la terra non trema
+perché non c'è terremoto",0
+Piove,"perché non c'è terremoto
+né guerra.",0
+Piove,"piove sugli ossi di seppia
+e sulla greppia nazionale.",0
+Piove,"qui dal balcone aperto,
+piove sul Parlamento,",0
+Piove,"in assenza di Ermione
+se Dio vuole,",0
+L'angelo nero,"o angelo nero disvélati
+ma non uccidermi col tuo fulgore,",0
+Vento a Tìndari,"oggi m’assali
+e ti chini in cuore.",0
+Vento a Tìndari,"e la brigata che lieve m’accompagna
+s’allontana nell’aria,",0
+Lelio,"La tua tomba, bambino,
+vogliamo sia sbiancata",0
+Lelio,"Era un dolce rumore
+che tu lasciavi al giorno",0

@@ -1,0 +1,317 @@
+titolo_poesia,termine_uno,termine_due,label_sim
+Il lampo,"una casa apparì sparì d’un tratto;","come un occhio, che, largo, esterrefatto,
+s’aprì si chiuse, nella notte nera.",1
+Il gelsomino notturno,"Sotto l’ali dormono i nidi,","come gli occhi sotto le ciglia.",1
+Laus Vitae Canto I,"","come una spada fedele,",1
+Laus Vitae Canto I,"","come una ruggente face,",1
+Laus Vitae Canto I,"","come la gorgóna,",1
+Laus Vitae Canto I,"","come la centàurea veste;",1
+Laus Vitae Canto I,"","come un’acqua chiara,",1
+Laus Vitae Canto I,"","come una corona,",1
+Laus Vitae Canto I,"","come un fiale,",1
+Laus Vitae Canto I,"","come il miele
+che la bocca separa
+dalla cera tenace;",1
+Laus Vitae Canto I,"Chi di te gioì sempre","come s’ei fosse
+per dipartirsi?",1
+Laus Vitae Canto I,"Ah, tutti i suoi tirsi
+il mio desiderio scosse
+verso di te,","come un Tìaso di rosse
+Tìadi in boschi folti,",1
+Le stirpi canore,"Le mie parole
+sono profonde","come la redici
+terrene,",1
+Le stirpi canore,"altre serene","come i firmamenti,",1
+Le stirpi canore,"fervide","come le vene
+degli adolescenti,",1
+Le stirpi canore,"ispide","come i dumi",1
+Le stirpi canore,"confuse","come i fumi
+confusi,",1
+Le stirpi canore,"nette","come i cristalli
+del monte,",1
+Le stirpi canore,"tremule","come le fronde
+del pioppo,",1
+Le stirpi canore,"tumide","come la nerici
+dei cavalli
+a galoppo,",1
+Le stirpi canore,"labili","come i profumi
+diffusi,",1
+Le stirpi canore,"vergini","come i calici
+appena schiusi,",1
+Le stirpi canore,"notturne","come le rugiade
+dei cieli,",1
+Le stirpi canore,"funebri","come gli asfodeli
+dell'Ade,",1
+Le stirpi canore,"pieghevoli","come i salici
+dello stagno,",1
+Le stirpi canore,"tenui","come i teli
+che fra due steli
+tesse il ragno.",1
+L'onda,"intesto di scaglia","come l'antica
+lorica
+del catafratto,",1
+L'onda,"la forza
+del vento l'intacca.","come colpo dismaglia
+l'arme,",1
+L'onda,"si perde,","come agnello che pasce
+pel verde:",1
+L'onda,"Il dorso ampio splende","come cristallo;",1
+L'onda,"la cima leggiera
+s'arruffa","come criniera
+nivea di cavallo.",1
+Le dolcezze,"La neve sulle case","come una parrucca bianca.",1
+Limite,"Ci sono angosce rapide-vaste","come bitume di nubi sopra le valli.",1
+Limite,"E’","come un martello",1
+Limite,"E’","come un martello sordo",1
+"Taci, anima stanca di godere","Giaci","come
+il corpo,",1
+"Taci, anima stanca di godere","camminiamo io e te","come sonnambuli.",1
+A mia moglie,"Tu sei","come una giovane
+una bianca pollastra.",1
+A mia moglie,"È","come sono tutte
+le femmine di tutti
+i sereni animali
+che avvicinano a Dio.",1
+A mia moglie,"Tu sei","come una gravida
+giovenca;",1
+A mia moglie,"Tu sei","come una lunga
+cagna, che sempre tanta
+dolcezza ha negli occhi,
+e ferocia nel cuore.",1
+A mia moglie,"e così ti riguarda","come il suo Dio e Signore.",1
+A mia moglie,"Tu sei","come la pavida
+coniglia.",1
+A mia moglie,"Tu sei","come la rondine
+che torna in primavera.",1
+A mia moglie,"Tu sei","come la provvida
+formica.",1
+Trieste,"è","come un ragazzaccio aspro e vorace,
+con gli occhi azzurri e mani troppo grandi
+per regalare un fiore;",1
+Trieste,"","come un amore
+con gelosia.",1
+Parole,"si scioglierebbe,","come neve al sole.",1
+«Frutta erbaggi»,"invecchia","come
+una madre.",1
+Sono una creatura,"","Come questa pietra
+del S. Michele
+così fredda
+così dura
+così prosciugata
+così refrattaria
+così totalmente
+disanimata",1
+Sono una creatura,"è il mio pianto
+che non si vede","Come questa pietra",1
+I fiumi,"ho riposato","come una reliquia",1
+I fiumi,"mi levigava","come un suo sasso",1
+I fiumi,"mi sono chinato a ricevere
+il sole","come un beduino",1
+Commiato,"","come un abisso",1
+Soldati,"Si sta","come
+d'autunno
+sugli alberi
+le foglie",1
+Lelio,"La tua tomba, bambino,
+vogliamo sia sbiancata","come una cameretta",1
+Dolore,"mi guardi","come un nemico di classe",1
+La rosa bianca,"un po' smemorata,","come tu sarai allora.",1
+«Tato» padovano,"E forse anche tu
+hai un'anima meravigliosa e immortale","come quella dei gattini
+che vengono soppressi appena
+appena semmai respirino",1
+«Tato» padovano,"","come quelle dei gattini
+che soffochiamo o perdiamo
+nei campi o anneghiamo",1
+Per il quinto anniversario della battaglia di Mentana,"Va","come fosca nuvola",1
+Dinanzi alle Terme di Caracalla,"versansi i corvi","come fluttuando",1
+Alla stazione in una mattina d'autunno,"piú belli del sole i miei sogni
+ricingean la persona gentile","come un’aureola",1
+Alla stazione in una mattina d'autunno,"barcollo","com’ebro",1
+Nevicata,"Da la torre di piazza roche per l’aëre le ore
+gemon,","come sospir d’un mondo lungi dal dì.",1
+A una mummia,"freddo","come marmo",1
+Allora,"son rimasta","come l’aratro in mezzo alla maggese.",1
+Il tuono,"nera","come il nulla",1
+Consolazione,"tutto sarà","come al tempo lontano.",1
+Consolazione,"Poi per te sola io vo’ comporre un canto
+che ti raccolga","come in una cuna,",1
+Furit Aestus,"tutto il cielo si squarcia","come un velo.",1
+La pioggia nel pineto,"è molle di pioggia","come una foglia,",1
+La pioggia nel pineto,"e le tue chiome
+auliscono","come
+le chiare ginestre,",1
+La pioggia nel pineto,"il cuor nel petto è","come pesca
+intatta,",1
+La pioggia nel pineto,"tra le palpebre gli occhi
+son","come polle tra l'erbe,",1
+La pioggia nel pineto,"i denti negli alveoli
+son","come mandorle acerbe.",1
+I pastori,"che verde è","come i pascoli dei monti.",1
+La signorina Felicita ovvero la felicità,"la trama
+del vetro deformava il panorama","come un antico smalto innaturale.",1
+La signorina Felicita ovvero la felicità,"E ti piegasti sulla tua panchetta
+facendo al viso coppa delle mani,
+simulando singhiozzi acuti e strani
+per celia,","come fa la scolaretta.",1
+La signorina Felicita ovvero la felicità,"sussultavi","come chi singhiozza
+veramente, né sa più ricomporsi:",1
+La signorina Felicita ovvero la felicità,"trasparente","come l'aria,",1
+La signorina Felicita ovvero la felicità,"Andai vagando nel silenzio amico,
+triste perduto","come un mendicante.",1
+Totò Merùmeni,"fresca","come una prugna al gelo mattutino,",1
+Ulisse,"belli","come smeraldi.",1
+In dormiveglia,"L’aria è crivellata","come una trina ",1
+Non chiederci la parola...,"risplenda","come un croco
+perduto in mezzo a un polveroso prato.",1
+Non chiederci la parola...,"secca","come un ramo.",1
+L'angelo nero,"non potrei riconoscerti","come faccio
+nel sonno, nella veglia, nel mattino",1
+Prima persona,"per soli aperti","come vive ventose,",1
+Alla stazione in una mattina d'autunno,"Oh quei fanali","come s’inseguono
+accidïosi là dietro gli alberi,",0
+Allora,"quando partisti,","come son rimasta!",0
+Digitale purpurea,"il fiore ha","come un miele
+che inebria l’aria;",0
+Consolazione,"Ti dirò","come sia dolce il mistero
+che vela certe cose del passato.",0
+Consolazione,"Ti dirò","come sia dolce il sorriso
+di certe cose che l’oblìo affl isse.",0
+Consolazione,"qualche cosa","come un fiato
+debole di viole un po’ passate,",0
+La signorina Felicita ovvero la felicità,"Se Lei sapesse","come sono stanco
+delle donne rifatte sui romanzi!",0
+A Cesena,"oh","come piove!",0
+A Cesena,"quando,","come, perché;",0
+A Cesena,"ripeti ancora
+quando,","come, perché;",0
+A Cesena,"E poi si vede, ora si vede, e","come!",0
+"Tre poesie alla mia balia, I","Oh,","come sento che lottare è vano!",0
+"Tre poesie alla mia balia, I","Oh,","come in petto per dolcezza il cuore
+vien meno!",0
+Giorno per giorno,"Mai, non saprete mai","come m’illumina
+l’ombra che mi si pone a lato, timida",0
+"L'esserci, il primo","gli chiedo
+delirando il","come,",0
+Ritorno,"Nulla, da","come non fu, è mutato.",0
+Per il quinto anniversario della battaglia di Mentana,"Su i nomentani tumuli","La morta schiera sta.",0
+Per il quinto anniversario della battaglia di Mentana,"Non son nefandi scheletri;","Sono alte forme e belle,",0
+Traversando la Maremma toscana,"onde portai conforme","L’abito ﬁero e lo sdegnoso canto",0
+Traversando la Maremma toscana,"","Oh, quel che amai, quel che sognai, fu in vano;",0
+Sogno d'estate,"","Sognai, placide cose de' miei novelli anni sognai.",0
+Sogno d'estate,"","Andava il fanciulletto con piccolo passo di gloria,",0
+Nevicata,"Lenta fiocca la neve pe ’l cielo cinerëo:","gridi,
+suoni di vita più non salgono da la città,",0
+Nevicata,"giù al silenzio verrò,","ne l’ombra riposerò.",0
+Nevicata,"Picchiano uccelli raminghi a’ vetri appannati: gli amici","piriti reduci son, guardano e chiamano a me.",0
+A una mummia,"","Fan del tuo frale eterno
+Sì misero governo.",0
+A una mummia,"","Tu, nata al sole, al fulgido
+Sole del tuo deserto,",0
+A una mummia,"","Tu non pensavi, un giorno.
+Nel gel d’un aer piorno,
+D’esser messa in vetrina
+Da una gente latina.",0
+«Tato» padovano,"","e invece sei morto così in
+un incidente di motociclismo",0
+«Tato» padovano,"","e iniziarsi ad esse
+diventa grande
+	atto di natura",0
+Oltranza-oltraggio,"sei più in là","ti vedo nel fondo della mia serachiusascura",0
+Oltranza-oltraggio,"ti fai più in là","e sprofondi",0
+Prima persona,"","mai giunge
+l’ora tua,",0
+Prima persona,"","Ma tu scaturisci per lenti
+boschi, per lucidi abissi,",0
+Prima persona,"","Sul vetro
+eternamente oscuro
+sfugge pasqua dagli scossi capelli
+primavera dimora e svanisce.",0
+Foglio di via,"Dunque nulla di nuovo da questa altezza","Dove ancora un poco senza guardare si parla
+E nei capelli il vento cala la sera.",0
+Foglio di via,"","E sono d’acqua i rami degli alberi.",0
+Foglio di via,"","Dove le feste han spento tutte le lampade.",0
+Preghiera,"","Anima mia leggera
+va' a Livorno, ti prego.",0
+Preghiera,"Proprio quest'oggi torno,","deluso, da Livorno.",0
+Preghiera,"","Anima mia, sii brava
+e va' in cerca di lei.",0
+Litania,"","Genova mia città intera.",0
+Litania,"","Brezza e luce in salita.",0
+Litania,"Genova dove non vivo,","mio nome, sostantivo.",0
+La rosa bianca,"","Coglierò per te
+l'ultima rosa del giardino,",0
+La rosa bianca,"la rosa bianca","che fiorisce
+nelle prime nebbie.",0
+La rosa bianca,"","Le avide api l'hanno visitata
+sino a ieri,",0
+Interno,"","Dal portiere non c’era nessuno.",0
+Interno,"","C’era la luce sui poveri letti
+disfatti.",0
+Interno,"","E sopra un tavolaccio
+dormiva un ragazzaccio
+bellissimo.",0
+La vita...è ricordarsi di un risveglio,"","La vita... è ricordarsi di un risveglio
+triste in un treno all'alba",0
+La vita...è ricordarsi di un risveglio,"","aver veduto
+fuori la luce incerta",0
+La vita...è ricordarsi di un risveglio,"aver sentito
+nel corpo rotto la malinconia","vergine e aspra dell'aria pungente.",0
+Dolore,"","mi vien voglia
+di rinfacciarti le mie piaghe,
+quelle sí cancrenose, immedicabili…",0
+Dolore,"","Non io, tu sei l’erede
+d’una sacra penuria,",0
+Dolore,"","E intanto non riesco a consolarti,
+mio affamato, tremante, altero amore!",0
+Dolore,"Ma credimi, tesoro,","che non voglio rubartelo
+l’osso del tuo dolore.",0
+Paura prima e Paura seconda,"","Ogni angolo o vicolo ogni momento è buono",0
+Paura prima e Paura seconda,"","Sparami sparami – gli dico
+offrendomi alla mira",0
+Paura prima e Paura seconda,"E nel dirlo mi avvedo","che a me solo sto parlando.",0
+Amsterdam,"","A portarmi fu il caso ",0
+Amsterdam,"","E non
+questa è la casa,",0
+Amsterdam,"","Disse piú tardi il mio compagno",0
+Amsterdam,"","Lei, è vero, lo scrisse.",0
+Anni dopo,"","La splendida la delirante pioggia s'è quietata,",0
+Anni dopo,"","Anche i nostri, fra quelli, di una volta?",0
+Anni dopo,"","Dunque ti prego non voltarti amore",0
+"Non sa più nulla, è alto sulle ali","Per questo qualcuno stanotte","mi toccava la spalla mormorando
+di pregar per l'Europa",0
+"Non sa più nulla, è alto sulle ali","Ho risposto nel sonno:","- È il vento,",0
+"Non sa più nulla, è alto sulle ali","","Ma se tu fossi davvero
+il primo caduto bocconi sulla spiaggia normanna",0
+Vidi le muse,"Io certo vidi le Muse","Appollaiate tra le foglie.",0
+Vidi le muse,"","Io vidi allora le Muse
+Tra le foglie larghe delle querce",0
+Vidi le muse,"","Vidi le Muse su una quercia",0
+Vidi le muse,"","Io dissi al mio cuore la meraviglia.",0
+"L'esserci, il primo","","Si sposta
+verso il profilo
+della sua incarnazione lui,",0
+"L'esserci, il primo","Umilmente
+se no,","all'altro capo dello stesso enigma",0
+"L'esserci, il primo","","la stella puntata sulla sua natività.",0
+Nella casa di N. compagna d'infanzia,"","Il vento è un aspro vento di quaresima,",0
+Nella casa di N. compagna d'infanzia,"","impigliata nei fili fiotta e vibra,
+l'incalza, la rapisce nella briga.",0
+Nella casa di N. compagna d'infanzia,"","Io sono qui, persona in una stanza,",0
+Lelio,"","Era un dolce rumore",0
+Lelio,"Ora, che appaia
+
+la luna e del suo vento","lasci più solo il mondo,",0
+Lelio,"","Era un tuo grido a fondo
+l’infanzia, un rifiorire…",0
+Lelio,"Inventaci la morte,","o bambino,",0
+Carri d'autunno,"","Nello spazio lunare
+pesa il silenzio dei morti.",0
+Carri d'autunno,"","Così lontano a trasparire il mondo
+ricorda che fu d'erba, una pianura.",0
+Vento a Tìndari,"","algo vertici aerei precipizi,",0
+Vento a Tìndari,"","A te ignota è la terra
+ove ogni giorno affondo",0
+L'angelo nero,"O grande angelo nero
+fuligginoso riparami","sotto le tue ali,",0
+L'angelo nero,"o angelo nero disvélati","ma non uccidermi col tuo fulgore,",0
