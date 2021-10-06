@@ -40,4 +40,5 @@ Giuseppe Ungaretti,
 Leonardo Sinisgalli,
 Guido Gozzano.
 
-
+## Ontologia in .owl
+L’ontologia specifica per il dominio delle figure retoriche è stata realizzata all’interno del programma Protégé in modo tale che, una volta integrata all’interno di un sistema intelligente, possa favorire performance migliori nel riconoscimento delle figure retoriche. Essa costituisce una implementazione del quadro teorico di Heinrich Lausberg.
